@@ -1,0 +1,26 @@
+{
+  "name": "argument.js",
+  "main": "lib/app.js",
+  "repository": {
+    "url": "https://github.com/tobihrbr/argument.git",
+    "type": "git"
+  },
+  "version": "0.0.1",
+  "description": "A simple argv parser",
+  "keywords": [
+    "argv",
+    "parser",
+    "arguments",
+    "argument",
+    "args"
+  ],
+  "license": "MIT",
+  "author": "tobihrbr",
+  "scripts": {
+    "start": "node lib/app.js"
+  },
+  "dependencies": {
+    "cleanr": "^0.2.5",
+    "minimist": "^1.2.0"
+  }
+}
