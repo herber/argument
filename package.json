@@ -21,6 +21,7 @@
   },
   "dependencies": {
     "cleanr": "^0.2.5",
+    "cli-table": "^0.3.1",
     "minimist": "^1.2.0"
   }
 }
