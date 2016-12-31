@@ -1,2 +1,2 @@
-# argument
+# Argument
 A simple argv parser
