@@ -1,0 +1,12 @@
+{
+  "name": "argument-http-example",
+  "main": "app.js",
+  "version": "1.0.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "array-path-join": "0.0.1"
+  }
+}
