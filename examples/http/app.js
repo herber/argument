@@ -3,7 +3,6 @@ const http = require("http");
 const url = require("url");
 const path = require("path");
 const fs = require("fs");
-const join = require('array-path-join');
 
 argument.option('port', 'The http port', '3000');
 
