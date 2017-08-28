@@ -1,4 +1,4 @@
-<div align="center">⚠️ This project is deprecated use [Argi](https://github.com/tobihrbr/argi) instead. ⚠️</div>
+<div align="center">⚠️ This project is deprecated use <a href="https://github.com/tobihrbr/argi">Argi</a> instead. ⚠️</div>
 
 
 
