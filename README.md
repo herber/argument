@@ -1,4 +1,6 @@
-![Argument](https://cldup.com/E3y8a1P-BZ.png)
+<div align="center">⚠️ This project is deprecated use [Argi](https://github.com/tobihrbr/argi) instead. ⚠️</div>
+
+
 
 ## Installation
 ```bash
