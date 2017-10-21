@@ -1,7 +1,3 @@
-<div align="center">⚠️ This project is deprecated use <a href="https://github.com/tobihrbr/argi">Argi</a> instead. ⚠️</div>
-
-
-
 ## Installation
 ```bash
 npm install [--save] argument.js
